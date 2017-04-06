@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jamk Lounas</string>
+    <string name="action_about">Tietoa</string>
+    <string name="about_title">Jamk Lounas</string>
+    <string name="about_version">Versio 4.0.1</string>
+    <string name="about_date">6.4.2017</string>
+    <string name="about_author">tuomela.teemu@gmail.com</string>
+    <string name="msg_fetch_menu_error">Tapahtui virhe! Yritä uudelleen.</string>
+    <string name="msg_no_menu">Ei ruokalistaa tälle päivälle.</string>
+    <string name="base_url">http://www.sodexo.fi/ruokalistat/output/daily_json/</string>
+    <string name="title_activity_restaurant">Ravintolat</string>
+</resources>
